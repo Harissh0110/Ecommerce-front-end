@@ -1,0 +1,9 @@
+.imge {
+    width: 200px;
+    height:200px;
+    object-fit: scale-down;
+  }
+  .logo{
+    width: 75%;
+    height: 75%;
+ }
